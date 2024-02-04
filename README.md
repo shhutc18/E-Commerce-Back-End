@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/-Node.js-green" />
+    <img src="https://img.shields.io/badge/-Express.js-green" />
     <img src="https://img.shields.io/badge/-Sequelize-red" >
     <img src="https://img.shields.io/badge/-mySQL-blue" >
     <img src="https://img.shields.io/badge/-ScreenCastify-lightgrey" />
