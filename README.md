@@ -10,6 +10,7 @@
 
 ## Description
 
+This application allows you to manage a database for an e-commerce or internet retail company using the latest technologies.
 
 ## Table of Contents
 
@@ -23,10 +24,16 @@
 
 ## Installation
 
-1. 
+1. Clone this repository: https://github.com/shhutc18/E-Commerce-Back-End
+2. Open the cloned repository in any source code editor.
 
 ## Usage
 
+1. In the root directory of the project, type in the terminal command line 'npm install' to download the dependencies.
+2. Initiate the database with 'mysql -u root -p', then 'SOURCE db/schema.sql' to create the tables.
+3. Exit the SQL terminal.
+4. Type 'npm run seed' into command line to seed the data into your tables.
+5. Run 'npm start' to start the server!
 
 ## License
 
