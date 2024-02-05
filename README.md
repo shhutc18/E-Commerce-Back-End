@@ -49,8 +49,7 @@ https://github.com/shhutc18/E-Commerce-Back-End
 
 ## Walkthrough
 
-Please watch this video for a brief tutorial on how to use this application: 
-<!-- Insert walkthrough video -->
+Please watch this video for a brief tutorial on how to use this application: https://drive.google.com/file/d/1Cy1UD3bghORYAOnn27Lhq-leSSZc1Wno/view
 
 ## Questions
 
